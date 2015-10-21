@@ -272,9 +272,9 @@ Full-Width Styles
 }
 
 #profile_pic {
-  width: 150px;
-  height: 150px;
-  border-radius: 75px;
+  width: 180px;
+  height: 180px;
+  border-radius: 90px;
   background: url('../images/profile.jpg') no-repeat;
   float: left;
   margin-right: 30px;
@@ -301,7 +301,7 @@ Full-Width Styles
 #project_title {
   margin: 0;
   color: #fff;
-  font-size: 42px;
+  font-size: 56px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
