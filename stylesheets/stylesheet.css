@@ -274,8 +274,8 @@ Full-Width Styles
 #profile_pic {
   width: 180px;
   height: 180px;
-  border-radius: 90px;
-  background: url('https://avatars3.githubusercontent.com/u/9268132?v=3&s=460') no-repeat;
+  border-radius: 7px;
+  background: url('../images/profile.jpg') no-repeat;
   float: left;
   margin-right: 30px;
   margin-bottom: 15px;
