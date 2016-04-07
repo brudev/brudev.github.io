@@ -180,6 +180,10 @@ blockquote {
   border-left: 3px solid #bbb;
 }
 
+i {
+  font-style: italic;
+}
+
 
 ul, ol, dl {
   margin-bottom: 15px
