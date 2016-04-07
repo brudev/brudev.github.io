@@ -57,7 +57,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
-
+p
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
@@ -275,7 +275,7 @@ Full-Width Styles
   width: 180px;
   height: 180px;
   border-radius: 90px;
-  background: url('../images/profile.jpg') no-repeat;
+  background: url('https://avatars3.githubusercontent.com/u/9268132?v=3&s=460') no-repeat;
   float: left;
   margin-right: 30px;
   margin-bottom: 15px;
